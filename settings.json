@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "EclipseSmp0677.aternos.me",
+    "port": 45210,
     "version": "1.20.1",
     "try-creative": false
   },
